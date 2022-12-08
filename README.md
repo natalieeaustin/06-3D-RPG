@@ -1,5 +1,16 @@
-# Godot-3D-Template
+Project Name
+06-RPG 
+12/8/2022
 
-Godot Template for 3D Games
+A 3D designed game. 
 
-Includes Keyboard mappings and Global.gd
+Implementation
+All features included from basic tutorials.
+
+References
+
+Future Development
+None
+
+Created by
+Natalie Austin
