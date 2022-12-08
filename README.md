@@ -8,6 +8,8 @@ Implementation
 All features included from basic tutorials.
 
 References
+kenney.nl - blaster kit
+Jaynam's Patreon page - terrain 
 
 Future Development
 None
